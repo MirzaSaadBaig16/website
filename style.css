@@ -1,0 +1,61 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.nav{
+    background-color: black; 
+    padding: 10px 40px;
+    display: flex;
+    height: 9vh;
+    width: 100vw;
+    border-radius: 30px;
+}
+h1{
+    text-align: center;
+    background-color:cornflowerblue;
+    border-radius: 20px;
+    font-size: 50px;
+}
+a{
+    text-decoration: none;
+    padding: 10px 40px;
+    margin: 0px 60px;
+    color: white;
+}
+.one{
+    padding: 10px;
+    background-color: aqua;
+    height: 40px;
+    margin: 0px 20px;
+}
+.two{
+    padding: 10px;
+    background-color: blueviolet;
+    height: 40px;
+    margin: 0px 20px;
+}
+.three{
+    padding: 10px;
+    background-color: chartreuse;
+    height: 40px;
+    margin: 0px 20px;
+}
+.four{
+    padding: 10px;
+    background-color: darkgoldenrod;
+    height: 40px;
+    margin: 0px 20px;
+}
+.img{
+    padding: 0px 40px;
+}
+p{
+    font-size: 40px;
+    color:darkblue;
+}
+body{
+    background-color: darkgray;
+}
+
+
